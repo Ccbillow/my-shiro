@@ -1,6 +1,6 @@
 .idea/workspace.xml
 target/classes
-SimpleTest.iml
+*.iml
 target/
 .idea
 *.class
